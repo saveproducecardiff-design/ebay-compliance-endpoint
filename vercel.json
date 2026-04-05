@@ -1,0 +1,4 @@
+ebay-compliance-endpoint/
+├── api/
+│   └── ebay-compliance.js
+└── vercel.json
